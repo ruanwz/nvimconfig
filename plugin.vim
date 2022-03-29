@@ -2802,3 +2802,7 @@ endif
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
+
+let mapleader = ","
+nmap <leader>d :NERDTreeToggle<cr>
+nmap <leader>D :NERDTreeFind<cr>

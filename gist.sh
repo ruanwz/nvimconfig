@@ -41,8 +41,6 @@ nnoremap <f2> :NERDTReeToggle<CR>
 nnoremap <f3> :TagbarToggle<CR>
 
 set termguicolors
-let ayucolor="dark"
-colorscheme ayu
 
 set encoding=UTF-8
 ---------------------------------------------------------
