@@ -5,7 +5,7 @@ sudo apt-get install neovim
 mkdir ~/.config/nvim
 cd ~/.config/nvim
 touch init.vim
-curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/ruanwz/nvimconfig/main/plug.vim
 mkdir ~/.config/nvim/vim-plug
 touch ~/.config/nvim/vim-plug/plugins.vim
 
