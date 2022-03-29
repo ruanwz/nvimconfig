@@ -33,6 +33,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
        Plug 'terryma/vim-multiple-cursors' " Ctrl + N for multiple cursors
        Plug 'preservim/tagbar' " Tagbar for code navigation
        Plug 'neoclide/coc.nvim' " Auto Completion
+       Plug 'github/copilot.vim'
         
 call plug#end()
 
